@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Prueba Tenica MSL Group/1.0.0": {
+        "runtime": {
+          "Prueba Tenica MSL Group.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prueba Tenica MSL Group/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
