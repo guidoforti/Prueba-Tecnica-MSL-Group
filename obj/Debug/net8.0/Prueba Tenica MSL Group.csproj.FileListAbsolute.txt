@@ -12,3 +12,18 @@ C:\Users\Guido\Desktop\Prueba Tenica MSL Group\obj\Debug\net8.0\refint\Prueba Te
 C:\Users\Guido\Desktop\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.pdb
 C:\Users\Guido\Desktop\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.genruntimeconfig.cache
 C:\Users\Guido\Desktop\Prueba Tenica MSL Group\obj\Debug\net8.0\ref\Prueba Tenica MSL Group.dll
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.AssemblyInfoInputs.cache
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.AssemblyInfo.cs
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.csproj.CoreCompileInputs.cache
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.sourcelink.json
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.dll
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\refint\Prueba Tenica MSL Group.dll
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.pdb
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\bin\Debug\net8.0\Prueba Tenica MSL Group.exe
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\bin\Debug\net8.0\Prueba Tenica MSL Group.deps.json
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\bin\Debug\net8.0\Prueba Tenica MSL Group.runtimeconfig.json
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\bin\Debug\net8.0\Prueba Tenica MSL Group.dll
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\bin\Debug\net8.0\Prueba Tenica MSL Group.pdb
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\Prueba Tenica MSL Group.genruntimeconfig.cache
+C:\Users\Guido\Desktop\PRUEBA TECNICA\Prueba Tenica MSL Group\obj\Debug\net8.0\ref\Prueba Tenica MSL Group.dll

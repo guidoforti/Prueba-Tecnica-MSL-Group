@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Prueba Tenica MSL Group")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+950d84a36c215b732d2325b994fd51ea0e32eed6")]
 [assembly: System.Reflection.AssemblyProductAttribute("Prueba Tenica MSL Group")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Prueba Tenica MSL Group")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Guido\\Desktop\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj": {}
+    "C:\\Users\\Guido\\Desktop\\PRUEBA TECNICA\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Guido\\Desktop\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj": {
+    "C:\\Users\\Guido\\Desktop\\PRUEBA TECNICA\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Guido\\Desktop\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj",
+        "projectUniqueName": "C:\\Users\\Guido\\Desktop\\PRUEBA TECNICA\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj",
         "projectName": "Prueba Tenica MSL Group",
-        "projectPath": "C:\\Users\\Guido\\Desktop\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj",
+        "projectPath": "C:\\Users\\Guido\\Desktop\\PRUEBA TECNICA\\Prueba Tenica MSL Group\\Prueba Tenica MSL Group.csproj",
         "packagesPath": "C:\\Users\\Guido\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Guido\\Desktop\\Prueba Tenica MSL Group\\obj\\",
+        "outputPath": "C:\\Users\\Guido\\Desktop\\PRUEBA TECNICA\\Prueba Tenica MSL Group\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Guido\\AppData\\Roaming\\NuGet\\NuGet.Config"
